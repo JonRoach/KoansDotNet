@@ -1,0 +1,6 @@
+C:\Projects\KoansDotNet\KoansDotNet\bin\Debug\KoansDotNet.dll
+C:\Projects\KoansDotNet\KoansDotNet\bin\Debug\KoansDotNet.pdb
+C:\Projects\KoansDotNet\KoansDotNet\bin\Debug\nunit.framework.dll
+C:\Projects\KoansDotNet\KoansDotNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\KoansDotNet\KoansDotNet\obj\Debug\KoansDotNet.dll
+C:\Projects\KoansDotNet\KoansDotNet\obj\Debug\KoansDotNet.pdb
