@@ -47,7 +47,8 @@ namespace KoansDotNet
 		// Sometimes we will ask you to fill in the values.
 		public void test_fill_in_values ()
 		{
-			
+			int? blank = null;
+			Assert.AreEqual ( blank, 1 + 1 );
 		}
 	}
 }
